@@ -34,11 +34,13 @@ It's just Python code (with help from AI ;p ) that just chills on your screen re
 HOW TO USE IT:
 
 
--Moving the text - Triple click on the text and drag it around.
+-Triple click on the text and drag it around.
 
--Change the text or colors - Right-click on it and you'll see the options.
+-Change the text or colors
 
--Close it - Either close the command prompt or right-click and select "Force Stop".
+-Right-click on it and you'll see the options.
+
+-Either close the command prompt or right-click and select "Force Stop".
 
 <img width="1365" height="767" alt="Screenshot 2025-08-14 220055" src="https://github.com/user-attachments/assets/d9115b27-c8e4-4ef6-83d8-c8d3578ecc72" />
 
