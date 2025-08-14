@@ -3,16 +3,18 @@ Ever got super distracted scrolling through random stuff online when you should 
 
 
 
-What is it :
+WHAT IS IT:
 
 
 -So basically I made this Python program that puts a reminder text anywhere on your screen. 
+
 -It's pretty cool because it stays on top of everything else so you can't just ignore it when your procrastinating.
+
 -currently it's made for windows.
 
 
 
-What it can do:
+WHAT CAN IT DO:
 
 
 Stays on top Like fr, it won't disappear behind other windows.
@@ -22,14 +24,14 @@ You can customize everything - Change the text, make it whatever color you want,
 
 
 
-How does it work:
+HOW DOES IT WORK:
 
 
-It's just Python code (with a bit of help from AI ;p ) that just chills on your screen reminding you to actually get stuff done! Make sure your windows has PYTHON INSTALLED.
+It's just Python code (with help from AI ;p ) that just chills on your screen reminding you to actually get stuff done! Make sure your windows has PYTHON INSTALLED.
 
 
 
-How to use it:
+HOW TO USE IT:
 
 
 -Moving the text - Triple click on the text and drag it around.
@@ -43,7 +45,7 @@ How to use it:
 
 
 
-How to run it:
+BHOW TO RUN IT:
 
 
 1. Download the "reminder.zip" from this repository.
