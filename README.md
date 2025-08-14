@@ -8,6 +8,7 @@ What is it :
 
 -So basically I made this Python program that puts a reminder text anywhere on your screen. 
 -It's pretty cool because it stays on top of everything else so you can't just ignore it when your procrastinating.
+-currently it's made for windows.
 
 
 
@@ -16,7 +17,8 @@ What it can do:
 
 Stays on top Like fr, it won't disappear behind other windows.
 You can customize everything - Change the text, make it whatever color you want, resize it, etc :)
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/47fb150f-691d-4d8f-b26d-5aa42e90a08f" />
+<img width="1365" height="767" alt="Screenshot 2025-08-14 212207" src="https://github.com/user-attachments/assets/bfdfd580-d187-432d-8040-53a25ea29a5c" />
+
 
 
 
@@ -33,7 +35,8 @@ How to use it:
 
 -Close it - Either close the command prompt or right-click and select "Force Stop".
 
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/250b0bec-dad6-4747-8304-d4fc0afa121d" />
+<img width="1365" height="767" alt="Screenshot 2025-08-14 220055" src="https://github.com/user-attachments/assets/d9115b27-c8e4-4ef6-83d8-c8d3578ecc72" />
+
 
 
 
