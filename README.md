@@ -25,9 +25,12 @@ You can customize everything - Change the text, make it whatever color you want,
 How does it work:
 
 
-It's just Python code (with a bit of help from AI ;p ) that just chills on your screen reminding you to actually get stuff done!
+It's just Python code (with a bit of help from AI ;p ) that just chills on your screen reminding you to actually get stuff done! Make sure your windows has PYTHON INSTALLED.
+
+
 
 How to use it:
+
 
 -Moving the text - Triple click on the text and drag it around.
 
@@ -43,9 +46,10 @@ How to use it:
 How to run it:
 
 
-1. Download the "reminder" from this repository.
-2. Run the Python file.
-3. And that's all!
+1. Download the "reminder.zip" from this repository.
+2. Unzip the file
+3. Run the Python file.
+4. And that's all!
 
 
 PS I'm still working to make this better by releasing bug fixes and additional features!
