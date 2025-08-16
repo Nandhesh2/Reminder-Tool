@@ -1,59 +1,56 @@
-# Reminder-Tool
-Ever got super distracted scrolling through random stuff online when you should be doing homework or something important? Yeah, me too. So I made this thing to fix that lol.
+# 🧠 Reminder Tool  
+Ever found yourself deep in a rabbit hole of memes, videos, or random scrolling when you were supposed to be doing homework? Same. That’s why I built this little tool—to keep me (and maybe you) on track.
 
+---
 
+## ✨ What Is It?
 
-WHAT IS IT:
+A lightweight Python program that displays a custom reminder on your screen—always on top, so you can't ignore it while procrastinating.  
+Currently built for **Windows**.
 
+---
 
--So basically I made this Python program that puts a reminder text anywhere on your screen. 
+## 💡 Features
 
--It's pretty cool because it stays on top of everything else so you can't just ignore it when your procrastinating.
+- **Always on Top**: Your reminder stays visible no matter what you're doing.
+- **Fully Customizable**:  
+  Change the text, colors, size, and position to match your vibe.
+- **Simple UI**:  
+  Right-click for options, triple-click to move the reminder around.
 
--currently it's made for windows.
+![Reminder Screenshot](https://github.com/user-attachments/assets/bfdfd580-d187-432d-8040-53a25ea29a5c)
 
+---
 
+## ⚙️ How It Works
 
-WHAT CAN IT DO:
+Just Python (with a little help from AI 😎).  
+Make sure you have **Python installed** on your Windows machine.
 
+---
 
-Stays on top Like fr, it won't disappear behind other windows.
-You can customize everything - Change the text, make it whatever color you want, resize it, etc :)
-<img width="1365" height="767" alt="Screenshot 2025-08-14 212207" src="https://github.com/user-attachments/assets/bfdfd580-d187-432d-8040-53a25ea29a5c" />
+## 🚀 How to Use
 
+1. **Triple-click** the reminder text to drag it around.
+2. **Right-click** for customization options.
+3. To close it, either:
+   - Close the command prompt, or  
+   - Right-click and select **"Force Stop"**
 
+![Options Screenshot](https://github.com/user-attachments/assets/d9115b27-c8e4-4ef6-83d8-c8d3578ecc72)
 
+---
 
-HOW DOES IT WORK:
+## 🛠️ How to Run
 
+1. Download `reminder.zip` from this repo.
+2. Unzip the file.
+3. Run the Python script.
+4. Done! 🎉
 
-It's just Python code (with help from AI ;p ) that just chills on your screen reminding you to actually get stuff done! Make sure your windows has PYTHON INSTALLED.
+---
 
+## 🧪 Work in Progress
 
-
-HOW TO USE IT:
-
-
--Triple click on the text and drag it around.
-
--Change the text or colors
-
--Right-click on it and you'll see the options.
-
--Either close the command prompt or right-click and select "Force Stop".
-
-<img width="1365" height="767" alt="Screenshot 2025-08-14 220055" src="https://github.com/user-attachments/assets/d9115b27-c8e4-4ef6-83d8-c8d3578ecc72" />
-
-
-
-
-BHOW TO RUN IT:
-
-
-1. Download the "reminder.zip" from this repository.
-2. Unzip the file
-3. Run the Python file.
-4. And that's all!
-
-
-PS I'm still working to make this better by releasing bug fixes and additional features!
+Still improving it—bug fixes and new features coming soon.  
+Feel free to suggest ideas or contribute!
